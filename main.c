@@ -1,2 +1,2 @@
-int c;
+int b;
 goodbye
